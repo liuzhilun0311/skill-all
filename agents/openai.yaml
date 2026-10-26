@@ -1,0 +1,4 @@
+interface:
+  display_name: "技能总览"
+  short_description: "识别当前智能体环境，用两列表格完整展示可用技能名称和用途"
+  default_prompt: "使用 $skills-all 告诉我当前智能体环境，并用两列表格列出全部可用技能及其用途。"
